@@ -1,0 +1,51 @@
+body{
+	background: url(images/fondo.jpg) no-repeat center center fixed; 
+	background-size: cover;
+	color: rgba(255,255,255,1);
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+h1,h5{
+	margin: 0px;
+	padding: 0px;
+}
+
+ul{
+	display: inline-block;
+}
+#menu{
+	text-align: center;
+}
+#menu li{
+		display: inline-block;
+		margin: 10px;
+		text-shadow: 2px 2px 2px black; 
+}
+section{
+	font-family: arial;
+}
+#cuerpo{
+	text-align: center;
+}
+.texto{
+	padding-top: 180px;
+	font-size: 2em;
+}
+.texto h5{
+	font-family: sans-serif;
+	font-weight: 300;
+	letter-spacing: 0.2em;
+}
+.boton{
+	margin-top: 100px;
+}
+.boton button{
+	border: solid white 2px;
+	background-color: transparent;
+	color: white;
+	padding: 20px 50px 20px 50px;
+	letter-spacing: 0.2em;
+	font-weight: 700;
+	text-shadow: 2px 2px 2px white;
+}
