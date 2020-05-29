@@ -1,0 +1,115 @@
+.contenido{
+	background-color: #ececec;
+	width: 1000px;
+	line-height: 100px;
+	font-size: 40px;
+	text-align: center;
+}
+.nav{
+	width: 1000px;
+	height: 100px;
+}
+.box1{
+	background-color: #0000FF;
+	height: 100px;
+	float: left;
+	width: 200px;
+	text-align: center;
+	color: white;
+	
+}
+.box2{
+	background-color: #FF0000;
+	height: 100px;
+	float: left;
+	width: 200px;
+	text-align: center;
+	color: white;
+}
+.box3{
+	background-color: #0000FF;
+	height: 100px;
+	float: left;
+	width: 200px;
+	text-align: center;
+	color: white;
+}
+.box4{
+	background-color: #FF0000;
+	height: 100px;
+	float: left;
+	width: 200px;
+	text-align: center;
+	color: white;
+}
+.box5{
+	background-color: #0000FF;
+	height: 100px;
+	float: left;
+	width: 200px;
+	text-align: center;
+	color: white;
+}
+
+.header{
+	width: 1000px;
+	height: 300px;
+}
+.banner{
+	background-color: #00FFFF;
+	float: left;
+	width: 800px;
+	height: 300px;
+}
+.logo{
+	background-color: #30475e;
+	color: white;
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+.login{
+	background-color: #FF0000;
+	color: white;
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+.form{
+	background-color: #0000FF;
+	color: white;
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+.main{
+	width: 1000px;
+	height: 500px; 
+}
+.asidel{
+	background-color:#FF0000;
+	float: left;
+	width: 200px;
+	height: 500px;
+	color: white;
+}
+.article{
+	background-color:#0000FF;
+	float: left;
+	width: 500px;
+	height: 500px;
+	color: white;
+}
+.asider{
+	background-color:#FF0000;
+	float: right;
+	width: 300px;
+	height: 500px;
+	color: white;
+}
+.footer{
+	background-color:#FF00FF;
+	float: right;
+	width: 1000px;
+	height: 80px;
+	color: white;
